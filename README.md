@@ -43,7 +43,10 @@ This command-line application is designed to help you manage departments, roles,
    - Choose an option to exit the application.
 
 8. **------------------------------------------------------------**
-   ![Alt text](image.png)![Alt text](image-1.png)![Alt text](image-2.png)
+  ![Alt text](assets/image-1.png)
+  ![Alt text](assets/image-2.png)
+  ![Alt text](assets/image.png)
+
 
 ## Installation
 
