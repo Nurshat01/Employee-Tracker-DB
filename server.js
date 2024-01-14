@@ -6,8 +6,8 @@ const consoleTable = require("console.table");
 const connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
-    user: "xxxx",
-    password: "xxxx",
+    user: "root",
+    password: "adam",
     database: "employee_db",
 });
 

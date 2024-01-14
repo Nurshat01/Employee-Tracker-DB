@@ -46,6 +46,7 @@ This command-line application is designed to help you manage departments, roles,
   ![Alt text](assets/image-1.png)
   ![Alt text](assets/image-2.png)
   ![Alt text](assets/image.png)
+  ![Alt text](image.png)
 
 
 ## Installation
